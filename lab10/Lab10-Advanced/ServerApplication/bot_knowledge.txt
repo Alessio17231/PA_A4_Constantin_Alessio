@@ -1,0 +1,5 @@
+Care este capitala Romaniei?|B
+Cate culori are steagul Germaniei?|A
+Care este capitala Ungariei?|A
+Cate continente sunt?|C
+Pe ce continent se afla China?|D
